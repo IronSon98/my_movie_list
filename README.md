@@ -1,1 +1,3 @@
-# my_movie_list
+# My Movie List
+
+## O aplicativo My Movie List pode ser utilizado para controlar os filmes que você deseja assistir ou que você já assistiu. O aplicativo é separado em três telas, uma para adicionar os filmes, uma para listar os filmes assistidos e uma para listar os filmes não assistidos. Para adicionar um filme é necessário acessar a tela de adição de filmes, selecionar uma imagem, informar o nome, autor e ano de lançamento do filme, informar se você já viu ou não o filme e clicar no botão salvar. Para os filmes já listados, é possível realizar a exclusão ou a edição deles, basta clicar no filme listado e as duas opções serão apresentadas. 
